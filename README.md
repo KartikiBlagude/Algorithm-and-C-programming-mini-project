@@ -6,6 +6,7 @@ I have used the following logic and steps
 3. then the program will read the codes provided by user line by line
 4. the program will then identify the errors in the syntax in the code
 5. then program will display the errors
+   
 I have included the following functions for identification of errors
 1. int main()
 2. return
